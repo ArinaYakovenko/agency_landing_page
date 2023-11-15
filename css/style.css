@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'ClashDisplay-Variable';
+    background-color: #212529;
+}
+
+.logo {
+    color: white;
+    font-size: 25.01px;
+    font-weight: 700;
+}
+
+.button {
+    background-color: #4F3DFE;
+    padding: 10px 24px;
+    border-radius: 34px;
+    font-size: 18px;
+}
+
+.title {
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.title span {
+    color: #4F3DFE;
+}
+
+.section-img{
+    padding: 15px;
+    background-color: gray;
+    border-radius: 50%;
+}
